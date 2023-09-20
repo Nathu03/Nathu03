@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
-## - 🔭 I’m currently working as a Software Engineer
-  
-## - 🌱 I’m currently learning the final year of Bsc
+- 🔭 I’m currently working as a Software Engineer
+- 🌱 I’m currently learning the final year of Bsc
 
 - 📫 How to reach me: ...
 <div align="center">
