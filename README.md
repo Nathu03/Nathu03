@@ -17,31 +17,32 @@ Here are some ideas to get you started:
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/narthanan-38b22318)">
     <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:narthanan.s@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://your-website-url.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-profile">
+  <a href="https://www.facebook.com/narththanan.sivarajah/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
 ## About Me
 
-I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into frontend development, mobile apps, and even exploring data analysis.
+I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development, mobile apps, and even exploring data analysis.
 
 ## Tech Stack
 
 Here are some technologies I work with:
 
 ![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-dodgerblue?logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-purple?logo=codeigniter&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+
