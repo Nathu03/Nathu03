@@ -2,13 +2,13 @@
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
-I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on both backend and frontend technologies. Let's connect and collaborate!
+I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on backend technologies, and I can do both backend and front-end. Let's connect and collaborate!
 
-🔭 I’m currently working on exciting web projects.
-🌱 I’m currently learning and expanding my knowledge.
-💬 Ask me about web development, software engineering, or anything tech-related!
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
-⚡ Fun fact: I'm working on my own eCommerce website development!
+- 🔭 I’m currently working on exciting web projects.
+- 🌱 I’m currently learning and expanding my knowledge.
+- 💬 Ask me about web development, software engineering, or anything tech-related!
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
+- ⚡ Fun fact: I'm working on my own eCommerce website development!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/narthanan-38b22318">
@@ -39,3 +39,5 @@ Here are some technologies I work with:
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+
+Feel free to reach out, connect, and let's create amazing things together!
