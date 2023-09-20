@@ -1,27 +1,17 @@
-### Hi there 👋 I'm Narthanan
+### Hi there! 👋 I'm Narthanan
 
-<!--
-**Nathu03/Nathu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
-- 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning the final year of Bsc
+I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on both backend and frontend technologies. Let's connect and collaborate!
 
-- 📫 How to reach me: ...
+🔭 I’m currently working on exciting web projects.
+🌱 I’m currently learning and expanding my knowledge.
+💬 Ask me about web development, software engineering, or anything tech-related!
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
+⚡ Fun fact: I'm working on my own eCommerce website development!
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/narthanan-38b22318)">
+  <a href="https://www.linkedin.com/in/narthanan-38b22318">
     <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="mailto:narthanan.s@yahoo.com">
@@ -35,14 +25,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-
 ## About Me
 
-I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development, and mobile apps.
-I'm focusing on my own eCommerce website development.
-
-
+I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development and mobile apps. Currently, I'm working on my own eCommerce website development, which is quite exciting!
 
 ## Tech Stack
 
@@ -54,4 +39,3 @@ Here are some technologies I work with:
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
-
