@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
+## - 🔭 I’m currently working as a Software Engineer
+  
+## - 🌱 I’m currently learning the final year of Bsc
+
+- 📫 How to reach me: ...
 <div align="center">
   <a href="https://www.linkedin.com/in/narthanan-38b22318)">
     <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
@@ -31,9 +36,14 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+
+
 ## About Me
 
-I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development, mobile apps, and even exploring data analysis.
+I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development, and mobile apps.
+I'm focusing on my own eCommerce website development.
+
+
 
 ## Tech Stack
 
