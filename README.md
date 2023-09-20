@@ -33,8 +33,8 @@ I'm passionate about learning and exploring various aspects of web development. 
 
 Here are some technologies I work with:
 
-![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-purple?logo=codeigniter&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
