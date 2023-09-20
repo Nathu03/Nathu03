@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Narthanan
 
 <!--
 **Nathu03/Nathu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Hi there! 👋
-
-![Cover](https://via.placeholder.com/800x200) <!-- Replace with your cover image URL -->
+<!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
