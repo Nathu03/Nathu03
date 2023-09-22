@@ -15,7 +15,7 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 Here are some projects I've worked on:
 
 1. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP)
-2. **Blood Bank Project** (Backend - Laravel, Frontend - React, Database - MongoDB)
+2. **Blood Bank Management System** (Backend - Laravel, Frontend - React, Database - MongoDB)
 3. **E-commerce Project** (React, Spring Boot, MySQL)
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL)
 5. **Music Listening Mobile Application** (Flutter, Firebase)
