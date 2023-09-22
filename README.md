@@ -14,9 +14,9 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
   <a href="https://www.linkedin.com/in/narthanan-38b22318">
     <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:narthanan.s@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="mailto:narthanan.s@yahoo.com">
+  <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
+</a>
   <a href="#">
     <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
