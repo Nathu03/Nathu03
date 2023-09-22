@@ -23,6 +23,7 @@ Here are some projects I've worked on:
 7. **React CRUD**
 8. **Java Swing CRUD**
 9. **Laravel CRUD**
+10. **C# CRUD**
 
 ## Connect with Me
 
