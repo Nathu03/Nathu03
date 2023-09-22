@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Narthanan
 
-![Cover](https://via.placeholder.com/800x200) <!-- Replace with your cover image URL -->
+<!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
 I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on backend technologies, and I can do both backend and front-end. Let's connect and collaborate!
 
