@@ -1,22 +1,38 @@
-### Hi there! 👋 I'm Narthanan
+# Hi there! 👋 I'm Narthanan
 
-<!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
+![Cover](https://via.placeholder.com/800x200) <!-- Replace with your cover image URL -->
 
 I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on backend technologies, and I can do both backend and front-end. Let's connect and collaborate!
 
 - 🔭 I’m currently working on exciting web projects.
-- 🌱 I’m currently learning and expanding my knowledge.
+- 🌱 I’m always learning and expanding my knowledge.
 - 💬 Ask me about web development, software engineering, or anything tech-related!
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
 - ⚡ Fun fact: I'm working on my own eCommerce website development!
 
+## Portfolio
+
+Here are some projects I've worked on:
+
+1. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP)
+2. **Blood Bank Project** (Backend - Laravel, Frontend - React, Database - MongoDB)
+3. **E-commerce Project** (React, Spring Boot, MySQL)
+4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL)
+5. **Music Listening Mobile Application** (Flutter, Firebase)
+6. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML)
+7. **React CRUD**
+8. **Java Swing CRUD**
+9. **Laravel CRUD**
+
+## Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/narthanan-38b22318">
-    <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<a href="mailto:narthanan.s@yahoo.com">
-  <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
-</a>
+  <a href="mailto:narthanan.s@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
