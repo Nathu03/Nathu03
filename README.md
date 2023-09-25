@@ -57,5 +57,8 @@ Here are some technologies I work with:
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-01589B?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
 
 Feel free to reach out, connect, and let's create amazing things together!
