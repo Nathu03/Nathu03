@@ -35,12 +35,12 @@ I'm passionate about learning and exploring various aspects of web development. 
 
 Here are some projects I've worked on:
 
-1. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP)
-2. **Blood Bank Management System** (Backend - Laravel, Frontend - React, Database - MongoDB)
+1. **Blood Bank Management System** (Backend - Laravel, Frontend - React, Database - MongoDB)
+2. **Music Listening Mobile Application** (Flutter, Firebase)
 3. **E-commerce Project** (React, Spring Boot, MySQL)
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL)
-5. **Music Listening Mobile Application** (Flutter, Firebase)
-6. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML)
+5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML)
+6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP)
 7. **React CRUD**
 8. **Java Swing CRUD**
 9. **Laravel CRUD**
