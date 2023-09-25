@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Narthanan
+# Hi there! 👋 I'm Narthanan https://img.shields.io/github/stars/Nathu03/your-repo-name?color=brightgreen&logo=github&logoColor=white
+
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
@@ -41,10 +42,10 @@ Here are some projects I've worked on:
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL)
 5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML)
 6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP)
-7. **React CRUD**
+7. **React CRUD** https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white
+10. **C# CRUD** 
 8. **Java Swing CRUD**
-9. **Laravel CRUD**
-10. **C# CRUD**
+9. **Laravel CRUD** 
 
 ## Tech Stack
 
