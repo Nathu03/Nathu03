@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Narthanan https://img.shields.io/github/stars/Nathu03/your-repo-name?color=brightgreen&logo=github&logoColor=white
+# Hi there! 👋 I'm Narthanan 
 
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
