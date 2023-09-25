@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Narthanan [![Total stars](https://star-counter.com/api.php?username=Nathu03&label=Stars&color=blue)](https://star-counter.com/)
+# Hi there! 👋 I'm Narthanan 
 
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
