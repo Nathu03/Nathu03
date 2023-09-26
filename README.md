@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success) ![Repos Badge](https://img.shields.io/badge/Repositories-10-brightgreen)
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
+![Cover](https://github.com/Nathu03/Nathu03/blob/main/RobertLaurent.png)
 
 I'm a passionate Software Engineer currently pursuing the final year of my BSc degree. I have a deep interest in web development, focusing on backend technologies, and I can do both backend and front-end. Let's connect and collaborate!
 
