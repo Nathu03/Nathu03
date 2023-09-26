@@ -13,7 +13,9 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
 - ⚡ Fun fact: I'm working on my own eCommerce website development!
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact" alt="GitHub Stats">
+</p>
 
 
 ## About Me
