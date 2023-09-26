@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge)
+# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success)
+
 
 
 
