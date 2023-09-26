@@ -1,7 +1,4 @@
-# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success)
-
-
-
+# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success) ![Repos Badge](https://img.shields.io/badge/Repositories-10-brightgreen)
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 
@@ -13,9 +10,10 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
 - ⚡ Fun fact: I'm working on my own eCommerce website development!
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact" alt="GitHub Stats">
-</p>
+  <img src="https://achievement-api.herokuapp.com/v1/achievements?user=Nathu03&theme=dark" alt="Achievement Graph">
+</div>
 
 
 ## About Me
