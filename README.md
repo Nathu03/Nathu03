@@ -13,6 +13,9 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).
 - ⚡ Fun fact: I'm working on my own eCommerce website development!
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact)
+
+
 ## About Me
 
 I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into front-end development and mobile apps. Currently, I'm working on my own eCommerce website development, which is quite exciting!
