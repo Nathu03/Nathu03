@@ -11,13 +11,7 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 - ⚡ Fun fact: I'm working on my own eCommerce website development!
 
 <div align="center">
- <p align="center">
-  <img src="https://img.shields.io/github/repo-count/Nathu03/Nathu03?label=GitHub%20Repositories&color=blue">
-  <img src="https://img.shields.io/github/followers/Nathu03?label=Followers&color=green">
-  <img src="https://img.shields.io/github/stars/Nathu03/Nathu03?label=Stars&color=yellow">
-  <!-- Add more badges as needed -->
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact" alt="GitHub Stats">
 </div>
 
 
