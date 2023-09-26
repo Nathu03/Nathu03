@@ -12,7 +12,8 @@ I'm a passionate Software Engineer currently pursuing the final year of my BSc d
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact" alt="GitHub Stats">
-  <img src="https://achievement-api.herokuapp.com/v1/achievements?username=Nathu03&theme=dark" alt="Achievement Graph">
+  ![Achievement Graph](https://achievement-api.herokuapp.com/v1/achievements?user=Nathu03&theme=dark)
+
 </div>
 
 
