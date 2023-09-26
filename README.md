@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Narthanan 
+# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge)
+
 
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
@@ -36,16 +37,16 @@ I'm passionate about learning and exploring various aspects of web development. 
 
 Here are some projects I've worked on:
 
-1. **Blood Bank Management System** (Backend - Laravel, Frontend - React, Database - MongoDB) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
-2. **Music Listening Mobile Application** (Flutter, Firebase) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+1. **Blood Bank Management System** (Backend - Laravel, Front-end -> React, Database - MongoDB) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+2. **Music Listening Mobile Application** (Flutter, Firebase) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 3. **E-commerce Project** (React, Spring Boot, MySQL) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
-6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 7. **React CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 10. **C# CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
-8. **Java Swing CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
-9. **Laravel CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+8. **Java Swing CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Java-Swing-CRUD?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+9. **Laravel CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Laravel-10_CRUD_MySQL?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 
 ## Tech Stack
 
