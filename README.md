@@ -42,7 +42,7 @@ I'm passionate about learning and exploring various aspects of web development. 
 Here are some projects I've worked on:
 
 1. **Blood Bank Management System** (Backend - Laravel, Front-end -> React, Database - MongoDB) <!-- Backend - [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-backend?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Bloodbank-backend) Frontend - [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-frontend?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Bloodbank-frontend) -->
-2. **Music Listening Mobile Application** (Flutter, Firebase) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/TOX_Plays)
+2. **Music Listening Mobile Application** (Flutter -Dart, Firebase) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/TOX_Plays)
 3. **E-commerce Project** (React, Spring Boot, MySQL) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/ecom_admin?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/ecom_admin)
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL) <!-- [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AROGYA_Hospital-Management-System?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/AROGYA_Hospital-Management-System) -->
 5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/TOX_Plays)
