@@ -47,10 +47,10 @@ Here are some projects I've worked on:
 4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL)
 5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML)
 6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/AVG_Wedding_Hall)
-7. **React CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
+<!-- 7. **React CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/React_crud?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/React_crud)
 10. **C# CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/C#_CRUD?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/C#_CRUD)
 8. **Java Swing CRUD** [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Java-Swing-CRUD?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Java-Swing-CRUD)
-9. **Laravel CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Laravel-10_CRUD_MySQL?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Laravel-10_CRUD_MySQL)
+9. **Laravel CRUD**  [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Laravel-10_CRUD_MySQL?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Laravel-10_CRUD_MySQL) -->
 
 ## Tech Stack
 
