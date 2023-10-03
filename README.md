@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Narthanan ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success) ![Repos Badge](https://img.shields.io/badge/Repositories-10-brightgreen)
+# Hi there! 👋 I'm Narthanan.  ![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge)  ![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success)  ![Repos Badge](https://img.shields.io/badge/Repositories-10-brightgreen)
 
 <!-- ![Cover](https://via.placeholder.com/800x200)  Replace with your cover image URL -->
 <div style="text-align: center;">
