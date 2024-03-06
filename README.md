@@ -43,12 +43,36 @@ I'm passionate about learning and exploring various aspects of web development. 
 
 Here are some projects I've worked on:
 
-1. **Blood Bank Management System** (Backend - Laravel, Front-end - React, Database - MongoDB) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-backend?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/Bloodbank-backend)
-2. **Music Listening Mobile Application** (Flutter - Dart, Firebase) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/TOX_Plays)
-3. **E-commerce Project** (React, Spring Boot, MySQL) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/ecom_admin?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/ecom_admin)
-4. **Hospital Management System** (HTML, CSS, Bootstrap, JavaScript, PHP, MySQL) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AROGYA_Hospital-Management-System?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/AROGYA_Hospital-Management-System) 
-5. **Employee Management System** (CodeIgniter, CSS, Bootstrap, HTML) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/TOX_Plays)
-6. **Basic Wedding Hall Project** (HTML, CSS, JavaScript, PHP) [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?color=brightgreen&logo=github&logoColor=white)](https://github.com/Nathu03/AVG_Wedding_Hall)
+1. **Blood Bank Management System**
+   - Backend: Laravel
+   - Front-end: React
+   - Database: MongoDB
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-backend?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/Bloodbank-backend)
+
+2. **Music Listening Mobile Application**
+   - Framework: Flutter (Dart)
+   - Database: Firebase
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/TOX_Plays)
+
+3. **E-commerce Project**
+   - Front-end: React
+   - Backend: Spring Boot
+   - Database: MySQL
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/ecom_admin?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/ecom_admin)
+
+4. **Hospital Management System**
+   - Technologies: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AROGYA_Hospital-Management-System?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/AROGYA_Hospital-Management-System)
+
+5. **Employee Management System**
+   - Framework: CodeIgniter
+   - Technologies: HTML, CSS, Bootstrap
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/TOX_Plays)
+
+6. **Basic Wedding Hall Project**
+   - Technologies: HTML, CSS, JavaScript, PHP
+   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/AVG_Wedding_Hall)
+
 
 
 
