@@ -44,34 +44,35 @@ I'm passionate about learning and exploring various aspects of web development. 
 Here are some projects I've worked on:
 
 1. **Blood Bank Management System**
-   - Backend: Laravel
-   - Front-end: React
-   - Database: MongoDB
+   - **Backend**: Laravel
+   - **Front-end**: React
+   - **Database**: MongoDB
    [![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-backend?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/Bloodbank-backend)
+   - **Front-end Link**: [Bloodbank-frontend](https://github.com/Nathu03/Bloodbank-frontend.git)
+   - **Back-end Link**: [Bloodbank-backend](https://github.com/Nathu03/Bloodbank-backend.git)
 
 2. **Music Listening Mobile Application**
-   - Framework: Flutter (Dart)
-   - Database: Firebase
+   - **Framework**: Flutter (Dart)
+   - **Database**: Firebase
    [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/TOX_Plays)
+   - **Repository Link**: [TOX_Plays](https://github.com/Nathu03/TOX_Plays.git)
 
 3. **E-commerce Project**
-   - Front-end: React
-   - Backend: Spring Boot
-   - Database: MySQL
+   - **Front-end**: React
+   - **Backend**: Spring Boot
+   - **Database**: MySQL
    [![GitHub stars](https://img.shields.io/github/stars/Nathu03/ecom_admin?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/ecom_admin)
+   - **Repository Link**: [ecom_admin](https://github.com/Nathu03/ecom_admin.git)
 
 4. **Hospital Management System**
-   - Technologies: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
+   - **Technologies**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
    [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AROGYA_Hospital-Management-System?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/AROGYA_Hospital-Management-System)
+   - **Repository Link**: [AROGYA_Hospital-Management-System](https://github.com/Nathu03/AROGYA_Hospital-Management-System.git)
 
-5. **Employee Management System**
-   - Framework: CodeIgniter
-   - Technologies: HTML, CSS, Bootstrap
-   [![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/TOX_Plays)
-
-6. **Basic Wedding Hall Project**
-   - Technologies: HTML, CSS, JavaScript, PHP
+5. **Basic Wedding Hall Project**
+   - **Technologies**: HTML, CSS, JavaScript, PHP
    [![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?style=social&label=Stars&color=brightgreen&logo=github)](https://github.com/Nathu03/AVG_Wedding_Hall)
+   - **Repository Link**: [AVG_Wedding_Hall](https://github.com/Nathu03/AVG_Wedding_Hall.git)
 
 
 
