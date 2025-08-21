@@ -43,11 +43,20 @@
 
 ## 📈 Skills at a Glance
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype:'pie',data:{labels:['Backend','Frontend','Mobile','DevOps','Data/DB'],datasets:[{data:[35,25,20,15,5]}]},options:{plugins:{legend:{position:'bottom'}}}&backgroundColor=transparent" alt="Skill Pie" width="420" />
-</p>
-
-> **Strengths:** Domain-driven design · REST/GraphQL APIs · Queues & caching · SQL tuning · Auth & security · Testing · CI/CD
+<div align="center">
+  <a href="https://www.linkedin.com/in/narthanan-38b22318">
+    <img src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:narthanan.s@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.facebook.com/narththanan.sivarajah/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 ---
 
