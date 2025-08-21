@@ -102,9 +102,7 @@
 
 ---
 
-## 💼 Hire Me
+## ☕ Buy Me a Coffee
 
-🚀 I’m open to **freelance projects, collaborations, and full-time opportunities** in **Laravel, FastAPI, and scalable SaaS systems**.
-If you’re looking for a developer who can **ship fast, scale apps, and optimize performance**—let’s connect!
-
-👉 Drop me an email at **[narthanan.s@yahoo.com](mailto:narthanan.s@yahoo.com)** or message me on **LinkedIn**.
+If you enjoy my work and want to support me, consider buying me a coffee! ☕
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/narthanan)
