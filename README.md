@@ -41,31 +41,11 @@
 
 ---
 
-## 📈 Skills at a Glance
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/narthanan-38b22318">
-    <img src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:narthanan.s@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.facebook.com/narththanan.sivarajah/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
----
-
 ## 📌 Pinned Projects
 
 * 🔥 [**ChatGPT Clone**](https://github.com/yourusername/chatgpt-clone) – Full-featured AI chat app with FastAPI, React, WebSockets, and Stripe integration.
 * 🛒 [**POS System**](https://github.com/yourusername/ultimatepos) – Customized UltimatePOS with advanced receipt printing, modifiers, and GST handling.
 * 📊 [**Time Tracking System**](https://github.com/yourusername/timetracker) – Laravel-based employee time tracking system with PDF/Excel reports.
-* 🌍 [**Daily Tech News Site**](https://github.com/yourusername/technews-ai) – Automated GPT-powered daily tech news with email alerts.
 
 ---
 
@@ -90,15 +70,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 📰 Latest Projects & Blog (Auto-updating)
-
-<p align="center">
-  <!-- This file is auto-updated via GitHub Actions -->
-  ![Latest Projects](https://github.com/Nathu03/Nathu03/raw/main/latest_projects.md)
 </p>
 
 ---
