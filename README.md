@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Nathu03">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%7C+Full‑Stack+Builder;5%2B+years+crafting+scalable+web+%26+mobile+apps;Laravel+%7C+React+%7C+Spring+Boot+%7C+Flutter;Clean+code.+Clear+architecture.+Real+impact." alt="Typing Intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%7C+Full-Stack+Developer;5%2B+years+building+scalable+web+%26+mobile+apps;Laravel+%7C+React+%7C+Spring+Boot+%7C+Flutter;Clean+code+%7C+Clear+architecture+%7C+Real+impact" alt="Typing Intro" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 💻 Senior Software Engineer with **5+ years** of hands-on experience in full-stack development.
 
-* I design and ship **scalable, high-performance** systems with a strong focus on backend engineering.
+* I design and ship **scalable, high-performance** systems with strong backend expertise.
 * Pragmatic about architecture, testing, CI/CD, and developer experience.
 * I enjoy turning complex ideas into **clean, maintainable** products.
 
@@ -44,7 +44,7 @@
 ## 📈 Skills at a Glance
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'Backend'%2C'Frontend'%2C'Mobile'%2C'DevOps'%2C'Data%2FDB'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C15%2C5%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D&backgroundColor=transparent" alt="Skill Pie" width="420" />
+  <img src="https://quickchart.io/chart?c=%7Btype:'pie',data:{labels:['Backend','Frontend','Mobile','DevOps','Data/DB'],datasets:[{data:[35,25,20,15,5]}]},options:{plugins:{legend:{position:'bottom'}}}&backgroundColor=transparent" alt="Skill Pie" width="420" />
 </p>
 
 > **Strengths:** Domain-driven design · REST/GraphQL APIs · Queues & caching · SQL tuning · Auth & security · Testing · CI/CD
