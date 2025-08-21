@@ -12,9 +12,9 @@
 
 ## 🚀 About Me  
 
-🎓 I have completed my **BSc in Computer Science & Software Engineering**.  
-💻 With **5+ years of industry experience**, I’m a **Senior Software Engineer** specializing in full-stack development.  
-⚡ My passion lies in building scalable, high-performance applications with a strong focus on backend engineering, but I also love exploring frontend and mobile development.  
+💻 Senior Software Engineer with **5+ years of industry experience**, specializing in full-stack development.  
+⚡ Passionate about building scalable, high-performance applications with strong expertise in backend engineering.  
+
 
 - 🔭 Currently working on **exciting web and eCommerce projects**.  
 - 🌱 Constantly learning and exploring new technologies.  
