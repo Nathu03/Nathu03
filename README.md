@@ -19,7 +19,7 @@
 - 🔭 Currently working on **exciting web and eCommerce projects**.  
 - 🌱 Constantly learning and exploring new technologies.  
 - 💬 Ask me about **web development, software engineering, and scalable system design**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/narthanan-38b22318) or [Email](mailto:narthanan.s@yahoo.com).  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/narthanan) or [Email](mailto:narthanan.s@yahoo.com).  
 - ⚡ Fun fact: I enjoy blending creativity with problem-solving to build impactful software solutions.  
 
 ---
