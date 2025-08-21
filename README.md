@@ -1,110 +1,110 @@
-# Hi there! 👋 I'm Narthanan  
+# 👋 Hi, I'm Narthanan
 
-![Stars](https://img.shields.io/github/stars/Nathu03?color=success&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=success)  
-![Repos Badge](https://img.shields.io/badge/Repositories-10-brightgreen?style=for-the-badge)  
-
-<div align="center">
-  <img src="https://github.com/Nathu03/Nathu03/blob/main/RobertLaurent.png" alt="Cover">
-</div>
-
----
-
-## 🚀 About Me  
-
-💻 Senior Software Engineer with **5+ years of industry experience**, specializing in full-stack development.  
-⚡ Passionate about building scalable, high-performance applications with strong expertise in backend engineering.  
-
-
-- 🔭 Currently working on **exciting web and eCommerce projects**.  
-- 🌱 Constantly learning and exploring new technologies.  
-- 💬 Ask me about **web development, software engineering, and scalable system design**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/narthanan) or [Email](mailto:narthanan.s@yahoo.com).  
-- ⚡ Fun fact: I enjoy blending creativity with problem-solving to build impactful software solutions.  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
----
-
-## 🌐 Connect with Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/narthanan-38b22318">
-    <img src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/Nathu03">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%7C+Full‑Stack+Builder;5%2B+years+crafting+scalable+web+%26+mobile+apps;Laravel+%7C+React+%7C+Spring+Boot+%7C+Flutter;Clean+code.+Clear+architecture.+Real+impact." alt="Typing Intro" />
   </a>
-  <a href="mailto:narthanan.s@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo%20Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.facebook.com/narththanan.sivarajah/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Nathu03?color=00C853&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Nathu03?style=for-the-badge&color=00C853" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repositories-10-brightgreen?style=for-the-badge" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=Nathu03&style=for-the-badge&label=Profile+Views" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nathu03/Nathu03/blob/main/RobertLaurent.png" alt="Cover" />
+</p>
 
 ---
 
-## 💼 Portfolio  
+## 🚀 About Me
 
-### 1. **Blood Bank Management System**  
-- **Backend**: Laravel  
-- **Frontend**: React  
-- **Database**: MongoDB  
-[![GitHub stars](https://img.shields.io/github/stars/Nathu03/Bloodbank-backend?style=social&label=Stars&logo=github)](https://github.com/Nathu03/Bloodbank-backend)  
-🔗 [Frontend Repo](https://github.com/Nathu03/Bloodbank-frontend) | [Backend Repo](https://github.com/Nathu03/Bloodbank-backend)  
+💻 Senior Software Engineer with **5+ years** of hands-on experience in full-stack development.
 
----
+* I design and ship **scalable, high-performance** systems with a strong focus on backend engineering.
+* Pragmatic about architecture, testing, CI/CD, and developer experience.
+* I enjoy turning complex ideas into **clean, maintainable** products.
 
-### 2. **Music Listening Mobile Application**  
-- **Framework**: Flutter (Dart)  
-- **Database**: Firebase  
-[![GitHub stars](https://img.shields.io/github/stars/Nathu03/TOX_Plays?style=social&label=Stars&logo=github)](https://github.com/Nathu03/TOX_Plays)  
-🔗 [Repository](https://github.com/Nathu03/TOX_Plays)  
+**Currently:** building modern eCommerce and platform features, mentoring juniors, and constantly learning.
+
+**Let’s talk:** [LinkedIn](https://www.linkedin.com/in/narthanan) · [Email](mailto:narthanan.s@yahoo.com)
 
 ---
 
-### 3. **E-commerce Project**  
-- **Frontend**: React  
-- **Backend**: Spring Boot  
-- **Database**: MySQL  
-[![GitHub stars](https://img.shields.io/github/stars/Nathu03/ecom_admin?style=social&label=Stars&logo=github)](https://github.com/Nathu03/ecom_admin)  
-🔗 [Repository](https://github.com/Nathu03/ecom_admin)  
+## 🧰 Tech Stack (Core)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,js,ts,flutter,dart,mysql,postgres,mongodb,redis,docker,nginx,aws,git,github,linux&perline=10" alt="Tech Icons" />
+</p>
 
 ---
 
-### 4. **Hospital Management System**  
-- **Technologies**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL  
-[![GitHub stars](https://img.shields.io/github/stars/Nathu03/AROGYA_Hospital-Management-System?style=social&label=Stars&logo=github)](https://github.com/Nathu03/AROGYA_Hospital-Management-System)  
-🔗 [Repository](https://github.com/Nathu03/AROGYA_Hospital-Management-System)  
+## 📈 Skills at a Glance
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'Backend'%2C'Frontend'%2C'Mobile'%2C'DevOps'%2C'Data%2FDB'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C15%2C5%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D&backgroundColor=transparent" alt="Skill Pie" width="420" />
+</p>
+
+> **Strengths:** Domain-driven design · REST/GraphQL APIs · Queues & caching · SQL tuning · Auth & security · Testing · CI/CD
 
 ---
 
-### 5. **Wedding Hall Project**  
-- **Technologies**: HTML, CSS, JavaScript, PHP  
-[![GitHub stars](https://img.shields.io/github/stars/Nathu03/AVG_Wedding_Hall?style=social&label=Stars&logo=github)](https://github.com/Nathu03/AVG_Wedding_Hall)  
-🔗 [Repository](https://github.com/Nathu03/AVG_Wedding_Hall)  
+## 📌 Pinned Projects
+
+* 🔥 [**ChatGPT Clone**](https://github.com/yourusername/chatgpt-clone) – Full-featured AI chat app with FastAPI, React, WebSockets, and Stripe integration.
+* 🛒 [**POS System**](https://github.com/yourusername/ultimatepos) – Customized UltimatePOS with advanced receipt printing, modifiers, and GST handling.
+* 📊 [**Time Tracking System**](https://github.com/yourusername/timetracker) – Laravel-based employee time tracking system with PDF/Excel reports.
+* 🌍 [**Daily Tech News Site**](https://github.com/yourusername/technews-ai) – Automated GPT-powered daily tech news with email alerts.
 
 ---
 
-## 🛠️ Tech Stack  
+## 📊 GitHub Analytics
 
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-purple?logo=codeigniter&logoColor=white)  
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-01589B?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+</p>
 
 ---
 
-✨ *Let’s connect, collaborate, and build impactful software together!* ✨
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📰 Latest Projects & Blog (Auto-updating)
+
+<p align="center">
+  <!-- This file is auto-updated via GitHub Actions -->
+  ![Latest Projects](https://github.com/Nathu03/Nathu03/raw/main/latest_projects.md)
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+* 📧 **Email:** [narthanan.s@yahoo.com](mailto:narthanan.s@yahoo.com)
+* 💼 [**LinkedIn**](https://linkedin.com/in/yourusername)
+* 🐙 [**GitHub**](https://github.com/yourusername)
+
+---
+
+## 💼 Hire Me
+
+🚀 I’m open to **freelance projects, collaborations, and full-time opportunities** in **Laravel, FastAPI, and scalable SaaS systems**.
+If you’re looking for a developer who can **ship fast, scale apps, and optimize performance**—let’s connect!
+
+👉 Drop me an email at **[narthanan.s@yahoo.com](mailto:narthanan.s@yahoo.com)** or message me on **LinkedIn**.
