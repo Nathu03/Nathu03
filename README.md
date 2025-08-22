@@ -51,11 +51,6 @@
 
 ## 📊 GitHub Analytics
 
-<!-- 🏆 Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-</p>
-
 <!-- 📈 Stats + 🔥 Streak -->
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
@@ -67,6 +62,10 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&langs_count=8&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
+<!-- 🏆 Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+</p>
 
 ---
 
