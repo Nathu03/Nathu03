@@ -43,9 +43,12 @@
 
 ## 📌 Pinned Projects
 
-* 🔥 [**ChatGPT Clone**](https://github.com/yourusername/chatgpt-clone) – Full-featured AI chat app with FastAPI, React, WebSockets, and Stripe integration.
-* 🛒 [**POS System**](https://github.com/yourusername/ultimatepos) – Customized UltimatePOS with advanced receipt printing, modifiers, and GST handling.
-* 📊 [**Time Tracking System**](https://github.com/yourusername/timetracker) – Laravel-based employee time tracking system with PDF/Excel reports.
+* 🔥 [**ChatGPT Clone**](https://github.com/Nathu03/chatgpt-clone) – Full-featured AI chat app with FastAPI, React, WebSockets, and Stripe integration.
+* 🛒 [**POS System**](https://github.com/Nathu03/pos-system) – Customized UltimatePOS with advanced receipt printing, modifiers, and GST handling.
+* 📊 [**Time Tracking System**](https://github.com/Nathu03/timetracker) – Laravel-based employee time tracking system with PDF/Excel reports.
+
+📩 [Contact Me](mailto:your.email@example.com?subject=Project%20Collaboration&body=Hi%20Narthanan,%0A%0AI%20am%20interested%20in%20your%20projects%20and%20would%20like%20to%20collaborate.%0A%0AThanks!)
+
 
 ---
 
