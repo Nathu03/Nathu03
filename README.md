@@ -55,21 +55,27 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+
+  <!-- GitHub Stats -->
   <img height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" 
-       src="https://streak-stats.demolab.com/?user=Nathu03&theme=radical&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
+
+  <!-- GitHub Streak (Stable Version) -->
+  <img height="160"
+       src="https://streak-stats.vercel.app/?user=Nathu03&theme=radical&cache_seconds=7200" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&langs_count=8&layout=compact&theme=radical&hide_border=true&cache_seconds=7200" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" />
 </p>
+
 
 
 
