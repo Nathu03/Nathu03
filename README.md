@@ -82,9 +82,9 @@
 
 ## 🤝 Connect With Me
 
-* 📧 **Email:** [narthanan.s@yahoo.com](mailto:narthanan.s@yahoo.com)
-* 💼 [**LinkedIn**](https://linkedin.com/in/yourusername)
-* 🐙 [**GitHub**](https://github.com/yourusername)
+* 📧 **Email:** [narthanan.dev@gmail.com](mailto:narthanan.dev@gmail.com)
+* 💼 [**LinkedIn**](https://linkedin.com/in/narthanan)
+* 🐙 [**GitHub**](https://github.com/Nathu03)
 
 ---
 
