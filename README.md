@@ -55,7 +55,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
   <!-- GitHub Stats -->
   <img height="160" 
        src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
