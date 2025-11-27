@@ -83,8 +83,8 @@
 ## 🤝 Connect With Me
 
 * 📧 **Email:** [narthanan.dev@gmail.com](mailto:narthanan.dev@gmail.com)
-* 💼 [**LinkedIn**](https://linkedin.com/in/narthanan)
-* 🐙 [**GitHub**](https://github.com/Nathu03)
+* 💼 **LinkedIn** [**LinkedIn**](https://linkedin.com/in/narthanan)
+* 🐙 **GitHub** [**GitHub**](https://github.com/Nathu03)
 
 ---
 
