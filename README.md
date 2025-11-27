@@ -58,7 +58,8 @@
   <!-- GitHub Stats -->
   <img height="160" 
        src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
-
+</p>
+<p align="center">
   <!-- GitHub Streak (Stable Version) -->
   <img height="160"
        src="https://streak-stats.vercel.app/?user=Nathu03&theme=radical&cache_seconds=7200" />
