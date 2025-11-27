@@ -29,7 +29,7 @@
 
 **Currently:** building modern eCommerce and platform features, mentoring juniors, and constantly learning.
 
-**Let’s talk:** [LinkedIn](https://www.linkedin.com/in/narthanan) · [Email](mailto:narthanan.s@yahoo.com)
+**Let’s talk:** [LinkedIn](https://www.linkedin.com/in/narthanan) · [Email](mailto:narthanan.dev@gmail.com)
 
 ---
 
