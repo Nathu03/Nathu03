@@ -54,29 +54,23 @@
 
 ## 📊 GitHub Analytics
 
-<!-- 📈 Stats + 🔥 Streak -->
 <p align="center">
   <img height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true" 
-       alt="GitHub Stats" />
+       src="https://github-readme-stats.vercel.app/api?username=Nathu03&show_icons=true&theme=radical&hide_border=true" />
   <img height="160" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Nathu03&theme=radical&hide_border=true" 
-       alt="GitHub Streak" />
+       src="https://streak-stats.demolab.com/?user=Nathu03&theme=radical&hide_border=true" />
 </p>
 
-<!-- 📚 Top Languages -->
 <p align="center">
   <img height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&langs_count=8&layout=compact&theme=radical&hide_border=true" 
-       alt="Top Languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathu03&langs_count=8&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- 🏆 Trophies -->
 <p align="center">
   <img 
-       src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" 
-       alt="GitHub Trophies" />
+       src="https://github-profile-trophy.vercel.app/?username=Nathu03&theme=onedark&no-frame=true&no-bg=true&column=6" />
 </p>
+
 
 
 ---
